@@ -51,4 +51,35 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vlukert&theme=dark&locale=ru)](https://github.com/rompersStomper/github-readme-stats)
 
+---
+
+График активности
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+Карточка профиля
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vlukert&theme=solarized_dark)
+
+
+
+Статистика языков в коммитах:
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vlukert&theme=solarized_dark)
+
+
+
+Статистика языков в репозиториях:
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vlukert&theme=solarized_dark)
+
+---
+
+Другое
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
+
+
 
