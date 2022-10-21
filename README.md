@@ -4,11 +4,11 @@
 
 
 <div id="badges" align="center">
-  <a href="https://vk.com/al_im.php?sel=c5">
-    <img src="https://img.shields.io/badge/Вконтакте-blue?style=for-the-badge&logo=vk&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://vk.com/al_im.php?sel=165155449">
+    <img src="https://img.shields.io/badge/Вконтакте-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Вконтакте Badge"/>
   </a>
   <a href="https://t.me/x12947">
-    <img src="https://img.shields.io/badge/Telegram-green?style=for-the-badge&logo=telegram&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-green?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
 <div id="viewprof" align="center">
